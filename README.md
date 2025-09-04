@@ -1,1 +1,1 @@
-# zenn-articles
+# zenn
